@@ -1,2 +1,4 @@
 # Learning-Git
-Finally first project. Making changes.
+Finally first project. 
+## Making changes
+Like Docsify
