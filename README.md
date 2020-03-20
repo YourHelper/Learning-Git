@@ -1,2 +1,2 @@
 # Learning-Git
-Finally first project
+Finally first project. Making changes.
